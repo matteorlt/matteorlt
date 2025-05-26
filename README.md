@@ -36,7 +36,7 @@
 
 - 🎮 [Site en React (Projet Fils Rouge OpenClassroom)](https://github.com/matteorlt/la-maison-jungle)
 - 🧠 [Jeu Memory](https://github.com/matteorlt/memory-game)
-- 🛠️ [Gestion de taches avec authentification (en cours)](https://github.com/matteorlt)
+- 🛠️ [Gestion de taches avec authentification (en cours)](https://github.com/matteorlt/Task-Manager)
 - 🌐 [Site associatif GymPhys](https://www.gym-phys-ploermel.fr)
 
 ---
