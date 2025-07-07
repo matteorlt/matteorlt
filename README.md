@@ -10,7 +10,7 @@
 
 - 🔭 Je développe des sites web modernes et interactifs
 - 🌱 Je développe mes compétences en React, Java et PHP
-- 🎮 Je crée aussi des petits jeux en JavaScript (Snake, Memory, Pong)
+- 🎮 Je crée aussi des petits projets en JavaScript / TypeScript
 - 💬 J’aime apprendre, créer, tester… et casser puis réparer du code 😄
 
 ---
@@ -36,7 +36,7 @@
 
 - 🎮 [Site en React (Projet Fils Rouge OpenClassroom)](https://github.com/matteorlt/la-maison-jungle)
 - 🧠 [Jeu Memory](https://github.com/matteorlt/memory-game)
-- 🛠️ [Gestion de taches avec authentification (en cours)](https://github.com/matteorlt/Task-Manager)
+- 🛠️ [Gestion de taches avec authentification installation avec Docker](https://github.com/matteorlt/Task-Manager)
 - 🌐 [Site associatif GymPhys](https://www.gym-phys-ploermel.fr)
 
 ---
